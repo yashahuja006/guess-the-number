@@ -21,7 +21,7 @@ def guess_the_number(n=1):
     else:
      print("guessed wrong number")
 
-     guess_the_number(n+1)
+     
 
 guess_the_number()
 
